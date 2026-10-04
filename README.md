@@ -135,6 +135,6 @@ distance-measuring-bot/
 
 <div align="center">
 
-Developed for Robotics & Embedded Systems
+Designed by 𝕀 ℕ 𝔽 𝔼 ℝ ℕ 𝕆.
 
 </div>
