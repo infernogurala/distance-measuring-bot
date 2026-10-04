@@ -35,15 +35,11 @@ The robot provides real-time visual feedback on a 0.96" SSD1306 OLED display and
 
 ### Live Demo Video
 
-[![Play Demo Video](https://img.shields.io/badge/Play_Demonstration_Video-4285F4?style=for-the-badge&logo=youtube&logoColor=white)](assets/video.mp4)
+<p align="center">
+  <img src="assets/demo.gif" width="480" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="Distance Measuring Bot Live Demonstration" />
+</p>
 
-<br/>
-
-<a href="assets/video.mp4">
-  <img src="assets/image-2.jpeg" width="480" style="border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.15);" alt="Click to Watch Demonstration Video" />
-</a>
-
-*Click the preview image or badge above to watch the demonstration video.*
+*Live animation preview. You can also [view or download full resolution video.mp4](assets/video.mp4).*
 
 </div>
 
@@ -111,9 +107,10 @@ distance-measuring-bot/
 ├── README.md                # Project overview & documentation
 ├── .gitignore               # Git ignore pattern rules
 ├── assets/                  # Media showcase files
+│   ├── demo.gif             # Live animated demonstration preview
 │   ├── image-1.jpeg         # Initial state photo (0 cm)
 │   ├── image-2.jpeg         # Active measurement photo
-│   └── video.mp4            # Live robot demonstration video
+│   └── video.mp4            # Full HD demonstration video
 ├── docs/                    # Technical documentation
 │   └── design_notes.md      # Mathematical models & development notes
 ├── final-code/              # Firmware
