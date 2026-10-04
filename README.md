@@ -6,22 +6,25 @@ An Arduino-powered 4-wheel robot car that calculates real-time distance traveled
 
 ## 📸 Visual Showcase
 
-### Initial State (0 cm Distance)
-When powered on or reset, the OLED display initializes to `0 cm` with status `Ready`.
+### Hardware & Display Screenshots
 
-![Initial State - 0 Distance](assets/image-1.jpeg)
+| Initial State (0 cm Distance) | Distance Travelled State |
+| :---: | :---: |
+| <img src="assets/image-1.jpeg" width="380" alt="Initial State - 0 Distance" /> | <img src="assets/image-2.jpeg" width="380" alt="Distance Travelled State" /> |
 
-### Distance Travelled State
-As the robot moves, the onboard controller continuously updates the net distance traveled.
+<br/>
 
-![Distance Travelled State](assets/image-2.jpeg)
+### 🎥 Demonstration Video
 
-### Demonstration Video
-Watch the distance measuring robot running live in action:
+Click the preview image or link below to watch the distance measuring bot running live:
 
-<video src="assets/video.mp4" controls width="100%" poster="assets/image-2.jpeg">
-  Your browser does not support the video tag. You can view the video file directly at <a href="assets/video.mp4">assets/video.mp4</a>.
-</video>
+<p align="left">
+  <a href="assets/video.mp4">
+    <img src="assets/image-2.jpeg" width="450" alt="▶ Watch Bot Demonstration Video" />
+  </a>
+</p>
+
+▶️ **[Watch `video.mp4` Demonstration](assets/video.mp4)**
 
 ---
 
