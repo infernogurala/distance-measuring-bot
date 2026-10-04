@@ -29,7 +29,7 @@ The robot provides real-time visual feedback on a 0.96" SSD1306 OLED display and
 
 | Initial State (`0 cm`) | Active Measurement |
 | :---: | :---: |
-| <img src="assets/image-1.jpeg" width="360" style="border-radius: 8px;" alt="Initial State 0 cm" /> | <img src="assets/image-2.jpeg" width="360" style="border-radius: 8px;" alt="Active State" /> |
+| <img src="assets/image-1.png" width="360" style="border-radius: 8px;" alt="Initial State 0 cm" /> | <img src="assets/image-2.png" width="360" style="border-radius: 8px;" alt="Active State" /> |
 
 <br/>
 
@@ -108,8 +108,8 @@ distance-measuring-bot/
 ├── .gitignore               # Git ignore pattern rules
 ├── assets/                  # Media showcase files
 │   ├── demo.gif             # Live animated demonstration preview
-│   ├── image-1.jpeg         # Initial state photo (0 cm)
-│   ├── image-2.jpeg         # Active measurement photo
+│   ├── image-1.png          # Initial state photo (0 cm)
+│   ├── image-2.png          # Active measurement photo
 │   └── video.mp4            # Full HD demonstration video
 ├── docs/                    # Technical documentation
 │   └── design_notes.md      # Mathematical models & development notes
