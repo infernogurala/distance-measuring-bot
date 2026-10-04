@@ -1,5 +1,0 @@
-- Arduino UNO
-- L298N motor driver
-- Car with 4 Dc motors
-- 0.96inch 128x64 OLED
-- Bluetooth module

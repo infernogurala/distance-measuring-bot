@@ -1,1 +1,0 @@
-typical 4 wheel car measuring the distance, by runtime or by number of revolutions. 
