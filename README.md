@@ -1,6 +1,6 @@
 <div align="center">
 
-# <img src="https://api.iconify.design/material-symbols:directions-car.svg?color=%231A73E8" height="38" align="center" /> Distance Measuring Bot
+# <img src="https://api.iconify.design/material-symbols:directions-car.svg?color=%234285F4" width="36" height="36" align="middle" /> Distance Measuring Bot
 
 ### *Precision distance estimation for 4WD Arduino robotics using kinematic curve fitting*
 
@@ -13,7 +13,7 @@
 
 </div>
 
-## <img src="https://api.iconify.design/material-symbols:info-outline.svg?color=%231A73E8" height="26" align="center" /> Overview
+## <img src="https://api.iconify.design/material-symbols:info-outline.svg?color=%234285F4" width="26" height="26" align="middle" /> Overview
 
 **Distance Measuring Bot** is an autonomous 4-wheel robot car built on an **Arduino UNO** platform. It dynamically estimates net distance traveled without dedicated rotary encoders by using time-velocity differential kinematics with startup pickup lag ($\tau$) compensation. 
 
@@ -21,7 +21,7 @@ The robot provides real-time visual feedback on a 0.96" SSD1306 OLED display and
 
 ---
 
-## <img src="https://api.iconify.design/material-symbols:photo-library-outline.svg?color=%231A73E8" height="26" align="center" /> Visual Showcase
+## <img src="https://api.iconify.design/material-symbols:photo-library-outline.svg?color=%234285F4" width="26" height="26" align="middle" /> Visual Showcase
 
 <div align="center">
 
@@ -31,9 +31,9 @@ The robot provides real-time visual feedback on a 0.96" SSD1306 OLED display and
 
 <br/>
 
-### <img src="https://api.iconify.design/material-symbols:play-circle-outline.svg?color=%231A73E8" height="22" align="center" /> Live Demo Video
+### <img src="https://api.iconify.design/material-symbols:play-circle-outline.svg?color=%234285F4" width="22" height="22" align="middle" /> Live Demo Video
 
-[![Play Demo Video](https://img.shields.io/badge/Play_Demonstration_Video-1A73E8?style=for-the-badge&logo=youtube&logoColor=white)](assets/video.mp4)
+[![Play Demo Video](https://img.shields.io/badge/Play_Demonstration_Video-4285F4?style=for-the-badge&logo=youtube&logoColor=white)](assets/video.mp4)
 
 <br/>
 
@@ -47,7 +47,7 @@ The robot provides real-time visual feedback on a 0.96" SSD1306 OLED display and
 
 ---
 
-## <img src="https://api.iconify.design/material-symbols:star-outline.svg?color=%231A73E8" height="26" align="center" /> Key Features
+## <img src="https://api.iconify.design/material-symbols:star-outline.svg?color=%234285F4" width="26" height="26" align="middle" /> Key Features
 
 - **Kinematic Distance Modeling**: Computes continuous distance using a calibrated exponential acceleration curve fitting model ($V_{\text{steady}} = 71.2\text{ cm/s}, \tau = 0.5\text{ s}$).
 - **Real-Time OLED Interface**: Displays status (`Ready`, `Forward`, `Backward`, `Stopped`) and net distance in centimeters on a 128x64 SSD1306 display.
@@ -56,7 +56,7 @@ The robot provides real-time visual feedback on a 0.96" SSD1306 OLED display and
 
 ---
 
-## <img src="https://api.iconify.design/material-symbols:cable.svg?color=%231A73E8" height="26" align="center" /> Pinout Architecture
+## <img src="https://api.iconify.design/material-symbols:cable.svg?color=%234285F4" width="26" height="26" align="middle" /> Pinout Architecture
 
 <div align="center">
 
@@ -77,7 +77,7 @@ The robot provides real-time visual feedback on a 0.96" SSD1306 OLED display and
 
 ---
 
-## <img src="https://api.iconify.design/material-symbols:calculate-outline.svg?color=%231A73E8" height="26" align="center" /> Kinematic Model
+## <img src="https://api.iconify.design/material-symbols:calculate-outline.svg?color=%234285F4" width="26" height="26" align="middle" /> Kinematic Model
 
 Distance is computed dynamically for any active segment of duration $t$ starting from rest using:
 
@@ -89,7 +89,7 @@ Where at constant PWM speed setting **150**:
 
 ---
 
-## <img src="https://api.iconify.design/material-symbols:gamepad-outline.svg?color=%231A73E8" height="26" align="center" /> Command Reference
+## <img src="https://api.iconify.design/material-symbols:gamepad-outline.svg?color=%234285F4" width="26" height="26" align="middle" /> Command Reference
 
 | Command | Action | System Response |
 | :---: | :--- | :--- |
@@ -102,7 +102,7 @@ Where at constant PWM speed setting **150**:
 
 ---
 
-## <img src="https://api.iconify.design/material-symbols:folder-open-outline.svg?color=%231A73E8" height="26" align="center" /> Workspace Hierarchy
+## <img src="https://api.iconify.design/material-symbols:folder-open-outline.svg?color=%234285F4" width="26" height="26" align="middle" /> Workspace Hierarchy
 
 ```
 distance-measuring-bot/
@@ -123,7 +123,7 @@ distance-measuring-bot/
 
 ---
 
-## <img src="https://api.iconify.design/material-symbols:rocket-launch-outline.svg?color=%231A73E8" height="26" align="center" /> Quick Start
+## <img src="https://api.iconify.design/material-symbols:rocket-launch-outline.svg?color=%234285F4" width="26" height="26" align="middle" /> Quick Start
 
 1. **Wiring**: Connect hardware components according to the [Pinout Architecture](#-pinout-architecture).
 2. **Dependencies**: Install the required libraries in Arduino IDE:
