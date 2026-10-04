@@ -7,7 +7,7 @@
 ### *Precision distance estimation for 4WD Arduino robotics using kinematic curve fitting*
 
 [![Arduino](https://img.shields.io/badge/Arduino-UNO-00979D?style=for-the-badge&logo=arduino&logoColor=white)](https://www.arduino.cc/)
-[![Display](https://img.shields.io/badge/OLED-SSD1306-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://www.adafruit.com/)
+[![Display](https://img.shields.io/badge/OLED-SSD1306-4285F4?style=for-the-badge)](https://www.adafruit.com/)
 [![Connectivity](https://img.shields.io/badge/Bluetooth-HC--05%20%2F%20HC--06-0082FC?style=for-the-badge&logo=bluetooth&logoColor=white)](final-code/final-code.ino)
 [![Status](https://img.shields.io/badge/Status-Completed-34A853?style=for-the-badge)](https://github.com/infernogurala/distance-measuring-bot)
 
